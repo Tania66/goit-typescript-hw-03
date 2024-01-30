@@ -29,7 +29,7 @@ abstract class House {
         }
     }
 
-    abstract openDoor(key: Key): void;
+  public abstract openDoor(key: Key): void;
 }
 
 
